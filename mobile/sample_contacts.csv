@@ -1,0 +1,11 @@
+email,first_name,last_name,phone,company,tags,notes
+john.doe@example.com,John,Doe,+1234567890,Acme Corporation,"lead,customer","Great prospect for our enterprise solution"
+jane.smith@techstart.com,Jane,Smith,+1987654321,TechStart Inc,"customer,premium","Premium customer - very satisfied with our service"
+mike.johnson@startup.io,Mike,Johnson,+1555123456,Startup.io,"prospect,hot","Interested in our product - follow up needed"
+sarah.wilson@bigcorp.com,Sarah,Wilson,+1444333222,BigCorp,"lead,enterprise","Enterprise lead - decision maker"
+david.brown@smallbiz.com,David,Brown,+1777888999,SmallBiz LLC,"customer,small","Small business customer - good relationship"
+emily.davis@consulting.com,Emily,Davis,+1666555444,Davis Consulting,"prospect,consultant","Consultant - potential partner"
+alex.chen@innovate.com,Alex,Chen,+1888999000,InnovateTech,"lead,innovator","Innovation-focused company - good fit"
+lisa.garcia@retail.com,Lisa,Garcia,+1222333444,Retail Plus,"customer,retail","Retail customer - expanding business"
+tom.lee@finance.com,Tom,Lee,+1999888777,Finance Corp,"prospect,finance","Financial services - high value prospect"
+rachel.kim@health.com,Rachel,Kim,+1111222333,HealthTech,"lead,healthcare","Healthcare technology - growing market"

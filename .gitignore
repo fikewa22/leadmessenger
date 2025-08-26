@@ -1,0 +1,65 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment/Secrets
+.env*
+*.env
+*.env.*
+**/.env
+**/.env.*
+**/*.env
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+expo-debug.log
+
+# Node / Expo (mobile)
+node_modules/
+mobile/node_modules/
+mobile/.expo/
+mobile/.expo-shared/
+mobile/.expo-web-cache/
+mobile/dist/
+mobile/build/
+*.tsbuildinfo
+
+# React Native/Metro cache
+.expo/
+.packager/
+
+# Python (backend)
+venv/
+backend/venv/
+**/__pycache__/
+**/*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.coverage
+.cache/
+dist/
+build/
+
+# Databases
+*.db
+*.sqlite
+backend/leadmessenger.db
+
+# Docker/runtime
+*.pid
+
+# Misc
+coverage/
